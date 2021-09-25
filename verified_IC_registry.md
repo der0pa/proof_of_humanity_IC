@@ -1,5 +1,5 @@
 
-[x] @der0pa  video recording of you with artifacts.
+[x] @der0pa verified  
 [x]  verified by: @<username>
 
 ![Image of @der0pa](pfp.jpg)  
