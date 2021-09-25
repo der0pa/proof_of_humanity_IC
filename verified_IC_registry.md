@@ -19,7 +19,7 @@ cycles wallet: | uoewz-fiaaa-aaaah-aaacq-cai
 - [DSCVR](https://h5aet-waaaa-aaaab-qaamq-cai.raw.ic0.app/user/DER0PAD)  
 - [openchat](https://7e6iv-biaaa-aaaaf-aaada-cai.ic0.app/0ccc5ad1dbb81d49d780a2d24f058fb9)  
 - [facebook](https://www.facebook.com/dougie.smith.5454)
-- [deviantart]https://www.deviantart.com/dsv2xm  
+- [deviantart](https://www.deviantart.com/dsv2xm)  
 - [tumblr](https://der0pa.tumblr.com)
 - [wp_weblog](https://der0pa.wordpress.com/)
 - [three-d.rs](https://zri5z-hiaaa-aaaaj-qaa4q-cai.raw.ic0.app)
