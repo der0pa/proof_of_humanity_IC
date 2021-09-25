@@ -3,7 +3,7 @@
 [x]  verified by: @<username>
 
 ![Image of @der0pa](pfp.jpg)  
-[Image_Link](https://avatars.githubusercontent.com/u/2074980?s=400&u=3d40fda716da74466eca549520cad646d02df094&v=4)
+[Image_Link](https://lynis-qyaaa-aaaah-aaogq-cai.raw.ic0.app/nft/12)
  
 douglas smith |opadougie | der0pa | dsv2xm   
 ------------ | ------------- | ---------- | ---------
