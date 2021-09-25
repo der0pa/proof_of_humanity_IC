@@ -1,6 +1,9 @@
 
 [x] @der0pa  video recording of you with artifacts.
-[x]  
+[x]  verified by: @<username>
+
+![Image of @der0pa](pfp.jpg)  
+https://avatars.githubusercontent.com/u/2074980?s=400&u=3d40fda716da74466eca549520cad646d02df094&v=4
  
 douglas smith |opadougie | der0pa | dsv2xm   
 ------------ | ------------- | ---------- | ---------
